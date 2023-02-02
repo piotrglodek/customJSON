@@ -1,0 +1,16 @@
+{
+  "users":[
+    {
+      "name":"Piotr",
+      "isAdmin": false
+    },
+    {
+      "name":"Marek",
+      "isAdmin": true
+    },
+    {
+      "name":"Aleksandra",
+      "isAdmin": true
+    }
+  ]
+}
