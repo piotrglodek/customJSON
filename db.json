@@ -1,16 +1,33 @@
 {
-  "users":[
+  "users": [
     {
-      "name":"Piotr",
+      "name": "Piotr",
       "isAdmin": false
     },
     {
-      "name":"Marek",
+      "name": "Marek",
       "isAdmin": true
     },
     {
-      "name":"Aleksandra",
+      "name": "Aleksandra",
       "isAdmin": true
+    }
+  ],
+  "userRankings": [
+    {
+      "name": "User 1",
+      "ranking": 1,
+      "score": 12543
+    },
+    {
+      "name": "User 2",
+      "ranking": 2,
+      "score": 9543
+    },
+    {
+      "name": "User 3",
+      "ranking": 3,
+      "score": 543
     }
   ]
 }
